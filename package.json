@@ -7,5 +7,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naguirre182/airstrange-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/naguirre182/airstrange-test/issues"
+  },
+  "homepage": "https://github.com/naguirre182/airstrange-test#readme",
   "description": ""
 }
